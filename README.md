@@ -83,9 +83,9 @@ Suggested screenshots:
 Example format:
 
 ```md
-![Homepage](./public/screenshots/homepage.png)
-![Chatbot](./public/screenshots/chatbot.png)
-![Projects](./public/screenshots/projects.png)
+![Homepage](public/screenshots/homepage.png)
+![Chatbot](public/screenshots/chatbot.png)
+![Projects](public/screenshots/projects.png)
 ```
 
 ## 8. How To Run
