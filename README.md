@@ -77,7 +77,7 @@ Add at least 3 screenshots of the app in action here before submission.
 Suggested screenshots:
 
 - Homepage with hero section
-![Homepage](./public/screenshots/homepage.png)
+  ![Homepage](./public/screenshots/homepage.png)
 
 - Chatbot open and answering a question
 
@@ -85,7 +85,7 @@ Suggested screenshots:
   
 - Contact page or projects/blog page
 
-![Projects](./public/screenshots/projects.png)
+  ![Projects](./public/screenshots/projects.png)
 
 ## 8. How To Run
 
