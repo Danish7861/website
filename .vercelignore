@@ -1,0 +1,7 @@
+# cPanel deployment artifacts, unused on Vercel
+.htaccess
+cgi-bin/
+
+# The legacy Python/Pinecone chatbot is no longer used. Keep only that root
+# folder out of Vercel while allowing the active Next.js app/api/chat route.
+/api/

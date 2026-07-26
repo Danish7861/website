@@ -1,0 +1,15 @@
+
+> nextjs-fastapi@0.2.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1192ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.6s (707 modules)
+ GET / 200 in 3871ms
+ ✓ Compiled in 268ms (310 modules)
+ GET / 200 in 101ms

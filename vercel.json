@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "rewrites": [
+    {
+      "source": "/certificates",
+      "destination": "/professional-certificates"
+    }
+  ]
+}

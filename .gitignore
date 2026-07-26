@@ -1,0 +1,10 @@
+node_modules
+.next/
+out/
+.env
+.env.local
+tmp/
+__pycache__/
+*.pyc
+# Local source archive; deployable copies live in public/certificates/all.
+Certificates/
