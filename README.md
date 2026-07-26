@@ -1,7 +1,42 @@
-# Danish Shahzad AI Portfolio
+# 🚀 Danish Shahzad AI Portfolio
+### AI Engineer • Data Scientist 
+
+> **An AI-powered personal platform engineered to present technical expertise, professional achievements, and interactive portfolio exploration through a production-ready web application.**
+
+This project is more than a traditional portfolio website. It is a complete, end-to-end application designed to help recruiters, hiring managers, clients, and collaborators evaluate technical capabilities through real projects, technical writing, certifications, and an AI assistant capable of answering portfolio-specific questions in real time.
+
+Rather than distributing information across multiple platforms, the application centralises professional experience, project demonstrations, technical articles, certifications, and contact channels into a single, high-performance experience.
 
 Live site: [https://danishshahzadai.com](https://danishshahzadai.com)
 
+
+<p align="center">
+
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-danishshahzadai.com-2563EB?style=for-the-badge)](https://danishshahzadai.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-success?style=for-the-badge)](https://danishshahzadai.com/cv_datascientist.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danishshahzad17)
+[![GitHub](https://img.shields.io/badge/GitHub-Danish7861-181717?style=for-the-badge&logo=github)](https://github.com/Danish7861)
+
+</p>
+
+
+---
+
+## Technology Stack
+
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=for-the-badge)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi&style=for-the-badge)
+![Gemini_AI](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel&style=for-the-badge)
+
+</p>
+
+---
 ## 1. What This App Is
 
 Danish Shahzad AI Portfolio is a personal portfolio website that presents my work as an Agentic AI Engineer and Data Scientist. It is built to help recruiters, clients, and collaborators quickly understand my background, services, projects, certifications, blog content, and resume in one place.
@@ -17,7 +52,9 @@ The real problem it solves is simple: it gives people a fast way to evaluate my 
 
 ## 3. Features
 
+- AI-powered portfolio assistant using Google's Gemini API
 - Responsive home page with hero section and portfolio previews
+- Responsive user interface built with Next.js and Tailwind CSS
 - About, skills, education, experience, projects, services, resume, and contact pages
 - Blog system powered by Markdown content files
 - Certificates and portfolio evidence showcased across the site
@@ -27,6 +64,13 @@ The real problem it solves is simple: it gives people a fast way to evaluate my 
 - Resume PDF and media assets served from the `public` folder
 - Dark/light theme support
 - Clean navigation between sections and pages
+- Interactive project showcase with detailed project information
+- Dynamic Markdown-powered technical blog
+- Professional experience and education timeline
+- Certification gallery
+- Downloadable resume
+- Contact form with Resend email integration
+- Advanced SEO implementation
 
 ## 4. AI Feature
 
@@ -72,18 +116,16 @@ The chatbot is guided by a custom portfolio context prompt that tells the model 
 
 ## 7. Screenshots
 
-Add at least 3 screenshots of the app in action here before submission.
+# Application Preview
 
-Suggested screenshots:
-
-- Homepage with hero section
+### Homepage with hero section
   ![Homepage](./public/screenshots/homepage.png)
 
-- Chatbot open and answering a question
+### AI Portfolio Assistant (Chatbot open and answering a question)
 
   ![Chatbot](./public/screenshots/chatbot.png)
   
-- Contact page or projects/blog page
+### Contact Page
 
   ![Projects](./public/screenshots/projects.png)
 
