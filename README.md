@@ -7,7 +7,8 @@ This project is more than a traditional portfolio website. It is a complete, end
 
 Rather than distributing information across multiple platforms, the application centralises professional experience, project demonstrations, technical articles, certifications, and contact channels into a single, high-performance experience.
 
-Live site: [https://danishshahzadai.com](https://danishshahzadai.com)
+- Live site: [https://danishshahzadai.com](https://danishshahzadai.com)
+- Vercel URL :  [https://website-seven-topaz-70.vercel.app/](https://website-seven-topaz-70.vercel.app/) 
 
 
 <p align="center">
@@ -113,7 +114,7 @@ The chatbot is guided by a custom portfolio context prompt that tells the model 
 ## 6. Live Deployment
 
 - Public URL: [https://danishshahzadai.com](https://danishshahzadai.com)
-
+- Vercel URL :  [https://website-seven-topaz-70.vercel.app/](https://website-seven-topaz-70.vercel.app/)
 ## 7. Screenshots
 
 # Application Preview
